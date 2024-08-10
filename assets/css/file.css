@@ -1,0 +1,12 @@
+#cabecalho{
+    background-color: blueviolet;
+    height:60px;
+}
+
+a{
+    font-family: roboto;
+    text-decoration: none;
+    font-size:19.5px;
+    margin:6px;
+
+}
