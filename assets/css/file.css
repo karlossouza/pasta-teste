@@ -13,4 +13,20 @@ a{
 
 .btn{
     background-color: orangered;
+    border-style: none;
+    border-radius:5px;
+    box-shadow:2px 2px 2px 2px rgb(128, 128, 128,0.3);
+    color: rgb(240, 248, 255);
+    width:120px;
+    height:40px;
+
+}
+
+
+.social{
+    font-family: roboto;
+    font-size:19px;
+    color: rgb(240, 248, 255);
+    float: inline-end;
+    display:inline-flex;
 }
